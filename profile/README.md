@@ -1,8 +1,7 @@
 ✨ Hi! I'm Foxy.
 
-<h3>🦊 | Hi, my name is Foxy and I'm just another Discor bot. Have fun on your server and let me do the boring things for you :3 with features to entertain and engage your members, moderation features to keep your server always safe and enjoyable
-And all thanks to a little fox, making your server unique and extraordinary has never been easier!
-I can entertain your server with my entertainment commands, economy etc :D</h3>
+<h3> 🦊 | Hi, my name is Foxy, I'm just another bot for Discord, I have features to entertain and engage your members. 
+I will make your server unique and extraordinary! I can entertain your server with my entertainment commands, economy commands, and others...</h3>
 
 ❤ | Created by: Win#4682
 
