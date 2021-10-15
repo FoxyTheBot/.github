@@ -1,6 +1,8 @@
 ✨ Hi! I'm Foxy.
 
-<h3>🦊 | Hi, I'm Foxy, I'm 15 years old. I'm spreading joy and cuteness on over 400 servers!</h3>
+<h3>🦊 | Hi, my name is Foxy and I'm just another Discor bot. Have fun on your server and let me do the boring things for you :3 with features to entertain and engage your members, moderation features to keep your server always safe and enjoyable
+And all thanks to a little fox, making your server unique and extraordinary has never been easier!
+I can entertain your server with my entertainment commands, economy etc :D</h3>
 
 ❤ | Created by: Win#4682
 
