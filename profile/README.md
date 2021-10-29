@@ -3,7 +3,7 @@
 <h3> 🦊 | Hi, my name is Foxy, I'm just another bot for Discord, I have features to entertain and engage your members. 
 I will make your server unique and extraordinary! I can entertain your server with my entertainment commands, economy commands, and others...</h3>
 
-❤ | Created by: Win#4682
+❤ | Created by: Win#6611
 
 🔗 Links:
 
