@@ -1,4 +1,4 @@
-<img src="foxy_profile-3-1.png">
+<img src="profile/foxy_profile-3-1.png">
 
 🔗 Links:
 
