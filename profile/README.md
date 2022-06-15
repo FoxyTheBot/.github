@@ -1,4 +1,4 @@
-<img src="profile/foxy_profile-3-1.png">
+<img src="https://github.com/FoxyTheBot/.github/blob/main/profile/foxy_profile-3-1.png">
 
 🔗 Links:
 
