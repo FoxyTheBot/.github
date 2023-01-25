@@ -2,7 +2,7 @@
 
 🔗 Links:
 
-- Site: https://foxywebsite.xyz
-- Server: https://discord.gg/W6XtYyqKkg
+- Site: https://foxybot.win
+- Server: https://discord.gg/6mG2xDtuZD
 - Twitter: https://twitter.com/FoxyDiscordBot
 - Donate: https://ko-fi.com/wing4merbr
