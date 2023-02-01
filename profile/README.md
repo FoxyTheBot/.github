@@ -5,4 +5,4 @@
 - Site: https://foxybot.win
 - Server: https://discord.gg/6mG2xDtuZD
 - Twitter: https://twitter.com/FoxyDiscordBot
-- Donate: https://ko-fi.com/wing4merbr
+- Donate: Avaliable only Brazil yet via Pix: wingamerbr@foxybot.win
