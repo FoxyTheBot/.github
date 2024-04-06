@@ -1,1 +1,1 @@
-<img src="https://i.imgur.com/IBe7wLg.png">
+<img src="foxy-banner.png">
